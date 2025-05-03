@@ -128,6 +128,6 @@ A simulated HR dataset containing:
 Hasnaa Ahmed
 Junior Data Analyst | Power BI Developer
 
-📧 Email: \hasnaaahmed745@gmail.com
+📧 Email: \hasnaaahmed745@gmail.com\
 🔗 LinkedIn: \https://www.linkedin.com/in/hasnaa-ahmed-5a648a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
