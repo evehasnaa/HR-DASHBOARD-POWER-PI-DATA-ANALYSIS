@@ -1,16 +1,5 @@
-Perfect, Hasnaa! Let's upgrade your `README.md` to make it comprehensive and professional, showing:
 
-* The **analytics questions** your dashboard answers
-* The **DAX formulas** used
-* The **charts/visuals** in the dashboard
-* The **insights gained** from the data
-* Strong keywords for visibility as a Junior Power BI Developer
 
----
-
-### 🔥 Optimized `README.md` for Your HR Dashboard
-
-````markdown
 # HR Analytics Dashboard – Power BI
 
 ## 📊 Project Overview
