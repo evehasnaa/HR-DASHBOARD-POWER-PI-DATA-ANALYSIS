@@ -128,20 +128,6 @@ A simulated HR dataset containing:
 Hasnaa Ahmed
 Junior Data Analyst | Power BI Developer
 
-📧 Email: \[[your.email@example.com](mailto:your.email@example.com)]
-🔗 LinkedIn: \[Your LinkedIn Profile]
-🌐 Portfolio: \[Your Portfolio Link]
+📧 Email: \hasnaaahmed745@gmail.com
+🔗 LinkedIn: \https://www.linkedin.com/in/hasnaa-ahmed-5a648a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
----
-
-## 📌 Keywords
-
-`Power BI`, `HR Dashboard`, `DAX`, `Data Analysis`, `Turnover Rate`, `Gender Distribution`, `Interactive Dashboard`, `KPI Metrics`, `Workforce Analytics`, `Junior Data Analyst`, `Microsoft Power BI`, `Data Visualization`, `Business Intelligence`, `Storytelling with Data`, `Employee Insights`
-
-```
-
----
-
-This README will make your GitHub repo or project **shine in job applications or portfolios**!  
-Would you like me to help you turn this into a downloadable PDF for a CV attachment or LinkedIn project?
-```
